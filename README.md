@@ -1,4 +1,4 @@
-# Its-A-Start
+# Its-A-Start 03/27/22
 A Discord Bot developed as an introduction to not only how Discord bots work, but as my first step into learning Python. 
 
 This code was programmed in Repl.it, so some of the things included may not work on just any IDE. 
